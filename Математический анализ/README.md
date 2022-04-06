@@ -16,6 +16,8 @@
 + d.m.stolyarov@spbu.ru;
 + http://chebyshev.spbu.ru/dmitriystolyarov
 
+[Страница курса](https://math-cs.spbu.ru/dmitriystolyarov/analiz-4-vesna-2022/)
+
 # Состояние репозитория
 
 На данный момент загружены:
